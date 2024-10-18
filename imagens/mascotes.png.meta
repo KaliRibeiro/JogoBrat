@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 475e6f9ab9e795d4b86efc37117e1f48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mascotes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2516
+        width: 418
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21adcc79250c8409f184b806cbf5b3
+      internalID: -1857265341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2535
+        width: 789
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9c2c2f229597b47b0dc408bd59db20
+      internalID: 1871218392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2596
+        width: 828
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b8476478d7744ba636612657234ad
+      internalID: -2094624274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_3
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2556
+        width: 739
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621567050191cce45a66117b6eec66fa
+      internalID: 626614785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 2534
+        width: 511
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07914e2233650642a492a81baabbae3
+      internalID: -330889516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_5
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 2532
+        width: 345
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f74ae4499a9d0498e096986af77900
+      internalID: 1970876564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_6
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 2584
+        width: 474
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e78a9b582c6c479ac4f2e696fb61f
+      internalID: 964372209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_7
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 2698
+        width: 348
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51386b59507daec4db6b31fae29596d7
+      internalID: 1665541707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_8
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 2870
+        width: 194
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a12dbc587eeb74290f0b16f254112d
+      internalID: 690096139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_9
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 2519
+        width: 496
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee855883174f3a44fa3925d35b437fab
+      internalID: -1495917903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_10
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 2516
+        width: 652
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0411c5679af618943aa8acd71c9700f4
+      internalID: 1230729919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1658
+        width: 742
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9831d9bfad2f38349a394a0ba5699953
+      internalID: 1868718616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_12
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1714
+        width: 552
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec5f313c2c15324bbd78eefe120a775
+      internalID: 657416820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_13
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1606
+        width: 481
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb8a20f6d24eb499a6ac3494afc29b
+      internalID: -775575544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_14
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1655
+        width: 357
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f9e956dfec264c88c948da0953440
+      internalID: -631168625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_15
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 1655
+        width: 357
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8bef8f387d67a4ca82a4a893667825
+      internalID: 897651469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_16
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1686
+        width: 565
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a461c8cb75f7248b6f3762ce53df0d
+      internalID: -121964554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_17
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 1711
+        width: 750
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b2d86387f95cb41879e8568d12128d
+      internalID: -1691644535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_18
+      rect:
+        serializedVersion: 2
+        x: 4701
+        y: 1652
+        width: 397
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24318bcf333ebcd45b655b245e4f28bf
+      internalID: -2146537979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_19
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 1640
+        width: 719
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c680a09235e42344aba88b1de2eb94f0
+      internalID: 2001511211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 887
+        width: 518
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e91f905504acc4bbc1890ba13f10b7
+      internalID: 894755298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_21
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1408
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47259cbbcd8ec4b845282553ffe1c9
+      internalID: -1890119737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_22
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 797
+        width: 543
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4647a0f7f94344e9ee61f3260192da
+      internalID: -286623670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_23
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 847
+        width: 416
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74ecf51bddbf24a89b58a74315d707
+      internalID: -616368348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_24
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 794
+        width: 478
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d44559ebff3d24fac21a6acc052c28
+      internalID: 246735502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_25
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 834
+        width: 524
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25b68f2c11941449a6b8b82458da43
+      internalID: 1984158041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_26
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 810
+        width: 428
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09e1dd53f13da408dfda12bd89bd0d
+      internalID: 2020083835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_27
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 110
+        width: 863
+        height: 1338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458bc253b248a6a4b8cf48025fdff7c0
+      internalID: 165267325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_28
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 791
+        width: 863
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ec4970613d044fa58a13091a6ff96
+      internalID: 600197946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_29
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 868
+        width: 594
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39438bc7314754aa9bd62896d48bf6
+      internalID: 330618673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_30
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 687
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adf8a3b5961e82429e5e4805b7cf83a
+      internalID: -940243192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_31
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 51
+        width: 465
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6112855c5a5d824180e6cf69bd6dfa2
+      internalID: -2055490668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_32
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 464
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef987e630f15549b5ced643eb07885
+      internalID: 619089937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_33
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 36
+        width: 484
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48357abcc52a88a4db1fa89597478625
+      internalID: 1508844040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_34
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 20
+        width: 437
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5c2d010e358c4abe1200ea0f8ae8a
+      internalID: 625551842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_35
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 45
+        width: 570
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194ccc3eb9809d4f9b31554a1ff3310
+      internalID: -203089990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_36
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 74
+        width: 629
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd884f0b1aa57294987df6de78274a13
+      internalID: 907762426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotes_37
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 114
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9619472e2f7da354e92f2d12e435f00f
+      internalID: 1647932015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mascotes_0: -1857265341
+      mascotes_1: 1871218392
+      mascotes_10: 1230729919
+      mascotes_11: 1868718616
+      mascotes_12: 657416820
+      mascotes_13: -775575544
+      mascotes_14: -631168625
+      mascotes_15: 897651469
+      mascotes_16: -121964554
+      mascotes_17: -1691644535
+      mascotes_18: -2146537979
+      mascotes_19: 2001511211
+      mascotes_2: -2094624274
+      mascotes_20: 894755298
+      mascotes_21: -1890119737
+      mascotes_22: -286623670
+      mascotes_23: -616368348
+      mascotes_24: 246735502
+      mascotes_25: 1984158041
+      mascotes_26: 2020083835
+      mascotes_27: 165267325
+      mascotes_28: 600197946
+      mascotes_29: 330618673
+      mascotes_3: 626614785
+      mascotes_30: -940243192
+      mascotes_31: -2055490668
+      mascotes_32: 619089937
+      mascotes_33: 1508844040
+      mascotes_34: 625551842
+      mascotes_35: -203089990
+      mascotes_36: 907762426
+      mascotes_37: 1647932015
+      mascotes_4: -330889516
+      mascotes_5: 1970876564
+      mascotes_6: 964372209
+      mascotes_7: 1665541707
+      mascotes_8: 690096139
+      mascotes_9: -1495917903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
